@@ -12,7 +12,7 @@ metadata:
       - darwin
       - win32
   author: OpenClaw
-  version: "1.0"
+  version: "0.1.0"
 compatibility: Requires Python 3.8+ and the requests library. Requires MINIMAX_API_KEY from https://platform.minimaxi.com
 ---
 
