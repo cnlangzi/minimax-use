@@ -1,0 +1,13 @@
+{
+  "name": "minimax-use",
+  "version": "0.2.0",
+  "description": "MiniMax AI tools for Node.js - chat, image understanding, translation, web search",
+  "type": "module",
+  "main": "scripts/index.js",
+  "bin": {
+    "minimax": "./scripts/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
